@@ -68,7 +68,11 @@ Developers who complete all the courses and submit the tasks will receive a Leve
 
 1. Intro to Arweave | [Learn](https://academy.developerdao.com/tracks/arweave-101/1)
     - What is Arweave?
+    - Immutable object storage
+      Like Bitcoin for storage
+      A layer1 network
     - How does Arweave Work?
+    - 
     - Permanent Storage Through Consensus and The Endowment
     - Arweave Transactions
     - Smart Contracts as Add-Ons
